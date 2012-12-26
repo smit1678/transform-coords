@@ -1,4 +1,4 @@
-transform-coords
+Transform Coordinates in Python
 ================
 
-Transform coordinates in python
+Customize this script to transform coordinates in Python. 
